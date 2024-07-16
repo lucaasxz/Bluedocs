@@ -10,7 +10,7 @@ Banco de Dados : MySQL.
 Servidor Web : Apache.
 Controle de versão : Git e GitHub.
 
-#Requisitos 
+# Requisitos 
 # Requisitos Funcionais
 RF-01 : Possuir formulário de cadastro e login.
 RF-02 : Possuir uma Homepage.
