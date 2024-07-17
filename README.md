@@ -20,6 +20,7 @@ Bluedocs é um gerenciador de arquivos desenvolvido em JavaScript e CSS, projeta
 - RF-02 : Possuir uma Homepage.
 - RF-03 : Possuir upload e dowload de arquivos.
 - RF-04 : Possuir separação de arquivos por área (ex: Engenharia, TI etc).
+- RF-05 : Fazer formulário para cadastro de arquivos.
 
 # Requisitos não Funcionais
 - RNF-01 : O site deve ser feito usando JavaScript, CSS e HTML.
