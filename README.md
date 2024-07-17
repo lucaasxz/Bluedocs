@@ -3,21 +3,21 @@ Bluedocs é um gerenciador de arquivos desenvolvido em JavaScript e CSS, projeta
 
 # Configuração do Ambiente de Desenvolvimento 
 # Ferramentas e Tecnologias 
-IDE/Editor de código : Visual Studio Code.
-Backend : JavaScript
-Frontend : JavaScript, HTML e CSS.
-Banco de Dados : MySQL.
-Servidor Web : Apache.
-Controle de versão : Git e GitHub.
+- IDE/Editor de código : Visual Studio Code.
+- Backend : JavaScript
+- Frontend : JavaScript, HTML e CSS.
+- Banco de Dados : MySQL.
+- Servidor Web : Apache.
+- Controle de versão : Git e GitHub.
 
 # Requisitos 
 # Requisitos Funcionais
-RF-01 : Possuir formulário de cadastro e login.
-RF-02 : Possuir uma Homepage.
-RF-03 : Possuir upload e dowload de arquivos.
-RF-04 : Possuir separação de arquivos por área (ex: Engenharia, TI etc).
+- RF-01 : Possuir formulário de cadastro e login.
+- RF-02 : Possuir uma Homepage.
+- RF-03 : Possuir upload e dowload de arquivos.
+- RF-04 : Possuir separação de arquivos por área (ex: Engenharia, TI etc).
 
 # Requisitos não Funcionais
-RNF-01 : O site deve ser feito usando JavaScript, CSS e HTML.
-RNF-02 : O site deve consultar um banco de dados SQL.
+- RNF-01 : O site deve ser feito usando JavaScript, CSS e HTML.
+- RNF-02 : O site deve consultar um banco de dados SQL.
 
