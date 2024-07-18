@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/lucaasxz/Bluedocs/blob/main/img/logo.png" alt=" " width="300">
+  <img src="https://github.com/lucaasxz/Bluedocs/blob/main/Public/img/logo.png" alt=" " width="300">
 </div>
 
 # Bluedocs
