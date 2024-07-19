@@ -13,9 +13,10 @@ body{
 }
 .login{
     background: rgba(0,0,0,.5);
-    border-radius: 10px;
+    border-radius: 30px;
     width: 400px;
     padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 40px rgba(0, 0, 0, 0.19);
 }
 .login h2{
     margin-bottom: 30px;
@@ -456,3 +457,6 @@ body{
         bottom: 100%;
     }
 }
+
+
+
